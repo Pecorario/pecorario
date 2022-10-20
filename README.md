@@ -1,7 +1,7 @@
 ### Hi there, I'm Taynara Pecorario 👋 
 ### 
 
-- 🔭 I'm working with front-end development at Luby Software
+- 🔭 I'm working with front-end development at The Soil Company.
 - 🌱 I’m currently learning React, React Native and TypeScript
 
 ---
