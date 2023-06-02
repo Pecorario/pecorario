@@ -1,8 +1,8 @@
 ### Hi there, I'm Taynara Pecorario 👋 
 ### 
 
-- 🔭 I'm working with front-end development at The Soil Company.
-- 🌱 I’m currently learning React, React Native and TypeScript
+- 🔭 I'm working as It Analyst at PagoNxt.
+- 🌱 I’m currently learning Salesforce, MongoDB and Docker.
 
 ---
 
