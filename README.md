@@ -1,7 +1,7 @@
 ### Hi there, I'm Taynara Pecorario 👋 
 ### 
 
-- 🔭 I'm working as It Analyst at PagoNxt.
+- 🔭 I'm working as IT Analyst at PagoNxt.
 - 🌱 I’m currently learning Salesforce, MongoDB and Docker.
 
 ---
