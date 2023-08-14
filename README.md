@@ -2,7 +2,7 @@
 ### 
 
 - 🔭 I'm working as IT Analyst at PagoNxt.
-- 🌱 I’m currently learning Salesforce, MongoDB and Docker.
+- 🌱 I’m currently learning Apex and LWC for Salesforce development.
 
 ---
 
